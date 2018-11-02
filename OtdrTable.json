@@ -1,0 +1,10 @@
+{
+    "homepage": "https://github.com/Pandorym/OtdrTable",
+    "description": "A command-line tool for simulate the generation of Excel tables containing Otdr test diagrams. 📡",
+    "version": "1.0.0",
+    "url": "https://github.com/Pandorym/OtdrTable/releases/download/v1.0.0/OtdrTable_b1e67dc_v1.0.0.7z",
+    "md5": "7d53d44425888105916b0f1e0f14659a",
+    "extract_dir": "OtdrTable_b1e67dc_v1.0.0",
+    "bin": "OT.exe",
+    "license": "AGPLv3"
+}
